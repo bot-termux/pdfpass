@@ -1,10 +1,5 @@
 # 🐧 PDF Password Tool - Termux Bot Style
 
-## 🛠 About
-
-- 🔓 **Unlock password-protected PDFs**
-- 🔐 **Add a password to PDFs**
-
 Built with 🐍 `pikepdf`,  Runs on **Termux**, **Linux**, **WSL**, or any Python environment.
 
 ---
@@ -12,8 +7,8 @@ Built with 🐍 `pikepdf`,  Runs on **Termux**, **Linux**, **WSL**, or any Pytho
 ## 📦 Features
 
 - Walks all subdirectories from current folder
-- Mass removes passwords if you know the correct one
-- Mass adds password protection to PDFs
+- 🔐 **Mass removes passwords if you know the correct one**
+- 🔐 **Mass adds password protection to PDFs**
 - Generates logs in `.log` file
 
 ---
