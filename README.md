@@ -38,5 +38,5 @@ python pdfpassremover.py
 ```
 or
 ```bash
-python pdfpaddremover.py
+python pdfpassmaker.py
 ```
